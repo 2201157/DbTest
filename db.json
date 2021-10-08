@@ -96,5 +96,43 @@
       "braReference": "Mercedes"
     }
     
+    ],
+  
+  "bus":[
+    
+    {
+      "busId": 1,
+      "busInternal": "faço puta ideia",
+      "busReference": "autocarro todo fixe",
+      "busModel": "Modelo pipi",
+      "busCompanyIDs": 3,
+      "busBrandsIDs": 1,
+      "busDate": "24-3-1999",
+      "busCapacity": 45
+      
+    },
+    {
+      "busId": 2,
+      "busInternal": "faço puta ideia versão 2",
+      "busReference": "autocarro todo baril",
+      "busModel": "Modelo nhec",
+      "busCompanyIDs": 2,
+      "busBrandsIDs": 2,
+      "busDate": "2-6-1989",
+      "busCapacity": 54
+      
+    },
+    {
+      "busId": 3,
+      "busInternal": "faço puta ideia outra vez",
+      "busReference": "autocarro a cair aos pedaços",
+      "busModel": "isto tem modelo?",
+      "busCompanyIDs": 1,
+      "busBrandsIDs": 1,
+      "busDate": "24-3-1945",
+      "busCapacity": 23
+      
+    }
+    
     ]
 }
