@@ -205,5 +205,23 @@
       "codPariIDs": 2
     
     }
+    
+  ],
+  
+  "companys": [
+  
+    {
+      "comId": 1,
+      "comReference": "Qompanhia com Q ",
+      "comLogo": "imagem",
+      "comCodIDs": 1
+    },
+    {
+    "comId": 2,
+    "comReference": "Empresa das viagens viajaveis",
+    "comLogo": "imagem",
+    "comCodIDs": 2
+  }
+  
   ]
 }
