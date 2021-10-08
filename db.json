@@ -3,60 +3,60 @@
     {
       "traId": 1,
       "traReference": 123
-      "traTypIDs" : 1
-      "traCompanyIDs" : 1
-      "traAsspeoIDs" : 3
-      "traDestinyIDs" : 1
-      "traRegionIDs" : 4
-      "traOriginIDs" : 8
-      "traBudgetIDs" : 2
-      "traValueCost" : 36
-      "traPriceAdult : 14
-      "traPriceChild" : 12
-      "traPriceSenior" : 13
+      "traTypIDs": 1,
+      "traCompanyIDs": 1,
+      "traAsspeoIDs": 3,
+      "traDestinyIDs": 1,
+      "traRegionIDs": 4,
+      "traOriginIDs": 8,
+      "traBudgetIDs": 2,
+      "traValueCost": 36,
+      "traPriceAdult: 14,
+      "traPriceChild": 12,
+      "traPriceSenior": 13,
     },
      {
       "traId": 2,
-      "traReference": 13
-      "traTypIDs" : 2
-      "traCompanyIDs" : 3
-      "traAsspeoIDs" : 1
-      "traDestinyIDs" : 2
-      "traRegionIDs" : 5
-      "traOriginIDs" : 56
-      "traBudgetIDs" : 1
-      "traValueCost" : 356
-      "traPriceAdult : 14
-      "traPriceChild" : 12
-      "traPriceSenior" : 13
+      "traReference": 13,
+      "traTypIDs": 2,
+      "traCompanyIDs": 3,
+      "traAsspeoIDs": 1,
+      "traDestinyIDs": 2,
+      "traRegionIDs": 5,
+      "traOriginIDs": 56,
+      "traBudgetIDs": 1,
+      "traValueCost": 356,
+      "traPriceAdult: 14,
+      "traPriceChild": 12,
+      "traPriceSenior": 13,
     }, {
       "traId": 3,
-      "traReference": 23
-      "traTypIDs" : 4
-      "traCompanyIDs" : 4
-      "traAsspeoIDs" : 2
-      "traDestinyIDs" : 5
-      "traRegionIDs" : 33
-      "traOriginIDs" : 2
-      "traBudgetIDs" : 4
-      "traValueCost" : 800
-      "traPriceAdult : 21
-      "traPriceChild" : 15
-      "traPriceSenior" : 18
+      "traReference": 23,
+      "traTypIDs": 4,
+      "traCompanyIDs": 4,
+      "traAsspeoIDs": 2,
+      "traDestinyIDs": 5,
+      "traRegionIDs": 33,
+      "traOriginIDs": 2,
+      "traBudgetIDs": 4,
+      "traValueCost": 800,
+      "traPriceAdult: 21,
+      "traPriceChild": 15,
+      "traPriceSenior": 18,
     }, {
       "traId": 4,
-      "traReference": 223
-      "traTypIDs" : 5
-      "traCompanyIDs" : 2
-      "traAsspeoIDs" : 4
-      "traDestinyIDs" : 12
-      "traRegionIDs" : 57
-      "traOriginIDs" : 46
-      "traBudgetIDs" : 34
-      "traValueCost" : 1245
-      "traPriceAdult : 33
-      "traPriceChild" : 22
-      "traPriceSenior" : 29
+      "traReference": 223,
+      "traTypIDs": 5,
+      "traCompanyIDs": 2,
+      "traAsspeoIDs": 4,
+      "traDestinyIDs": 12,
+      "traRegionIDs": 57,
+      "traOriginIDs": 46,
+      "traBudgetIDs": 34,
+      "traValueCost": 1245,
+      "traPriceAdult: 33,
+      "traPriceChild": 22,
+      "traPriceSenior": 29,
     },
    
   ],
