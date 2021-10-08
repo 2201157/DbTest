@@ -2,7 +2,7 @@
   "travels": [
     {
       "traId": 1,
-      "traReference": 123,
+      "traReference": "yas",
       "traTypIDs": 1,
       "traCompanyIDs": 1,
       "traAsspeoIDs": 3,
@@ -17,7 +17,7 @@
     },
    {
     "traId": 2,
-    "traReference": 13,
+    "traReference": "sim",
     "traTypIDs": 2,
     "traCompanyIDs": 3,
     "traAsspeoIDs": 1,
@@ -32,7 +32,7 @@
   }, 
   {
     "traId": 3,
-    "traReference": 23,
+    "traReference": "viagem bue bue longe",
     "traTypIDs": 4,
     "traCompanyIDs": 4,
     "traAsspeoIDs": 2,
@@ -47,7 +47,7 @@
   }, 
   {
     "traId": 4,
-    "traReference": 223,
+    "traReference": "viagem bue fixe",
     "traTypIDs": 5,
     "traCompanyIDs": 2,
     "traAsspeoIDs": 4,
@@ -65,24 +65,36 @@
   "boardingplaces": [ 
     {
       "boaID": 1,
-      "boaReference": 2,
+      "boaReference": "nao sei",
       "codpostals_codId": 4
     },
     {
       "boaID": 2,
-      "boaReference": 1,
+      "boaReference": "nem conheco",
       "codpostals_codId": 54
     },
     {
       "boaID": 3,
-      "boaReference": 12,
+      "boaReference": "sei la",
       "codpostals_codId": 24
     },
     {
       "boaID": 4,
-      "boaReference": 4,
+      "boaReference": "ok",
       "codpostals_codId": 34
     }
     
-  ]
+  ],
+  "brands" : [
+    
+    {
+      "braId": 1,
+      "braReference": "Ford"
+    },
+    {
+      "braId": 2,
+      "braReference": "Mercedes"
+    }
+    
+    ]
 }
