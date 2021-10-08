@@ -134,5 +134,30 @@
       
     }
     
-    ]
+    ],
+  
+  "busstopovers": [
+  
+    {
+      "bussId": 1,
+      "busTicketSold": 12,
+      "bussCheckinSold": 10,
+      "busstopoverscol": "questa merda",
+      "bussbusIDs": 2,
+      "bussstopTravelsIDs": 1,
+      "bussLatitude": 64.29334,
+      "bussLongitude":129.29595
+    },
+     {
+      "bussId": 2,
+      "busTicketSold": 22,
+      "bussCheckinSold": 16,
+      "busstopoverscol": "questa merda v2",
+      "bussbusIDs": 3,
+      "bussstopTravelsIDs": 2,
+      "bussLatitude": 28.78643,
+      "bussLongitude":-76.46570
+    }
+  
+  ]
 }
