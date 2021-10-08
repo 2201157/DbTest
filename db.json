@@ -183,5 +183,27 @@
     }
     
   
+  ],
+  
+  "codpostals": [
+  
+    {
+      "codpId": 1,
+      "codpReference": "3463-544",
+      "codAdrerss": "Rua bacalhau sujo",
+      "codLatit": -22.53157,
+      "codLong": 140.91335,
+      "codPariIDs": 1
+    
+    },
+    {
+      "codpId": 2,
+      "codpReference": "2363-524",
+      "codAdrerss": "Rua bacalhau queimado",
+      "codLatit": 46.05840,
+      "codLong": 145.31507,
+      "codPariIDs": 2
+    
+    }
   ]
 }
