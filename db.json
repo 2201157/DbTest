@@ -159,5 +159,29 @@
       "bussLongitude":-76.46570
     }
   
+  ],
+  
+  "budgets": [
+  
+    {
+      "budId": 1,
+      "budInicio": "24-12-2021",
+      "budFim": "31-12-2021",
+      "budKms": 500,
+      "budValueTotal": 254.3,
+      "budValuePeden": 150,
+      "budValueExecute": 100
+    },
+     {
+      "budId": 2,
+      "budInicio": "14-8-2021",
+      "budFim": "1-2-2022",
+      "budKms": 300,
+      "budValueTotal": 554.3,
+      "budValuePeden": 346.45,
+      "budValueExecute": 0
+    }
+    
+  
   ]
 }
