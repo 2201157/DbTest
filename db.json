@@ -67,7 +67,12 @@
       "boaID": 1,
       "boaReference": 2,
       "codpostals_codId": 4
-    }
+    },
+    {
+      "boaID": 1,
+      "boaReference": 2,
+      "codpostals_codId": 4
+    },
     
-  ],
+  ]
 }
