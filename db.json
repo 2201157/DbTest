@@ -69,10 +69,20 @@
       "codpostals_codId": 4
     },
     {
-      "boaID": 1,
-      "boaReference": 2,
-      "codpostals_codId": 4
+      "boaID": 2,
+      "boaReference": 1,
+      "codpostals_codId": 54
     },
+    {
+      "boaID": 3,
+      "boaReference": 12,
+      "codpostals_codId": 24
+    },
+    {
+      "boaID": 4,
+      "boaReference": 4,
+      "codpostals_codId": 34
+    }
     
   ]
 }
