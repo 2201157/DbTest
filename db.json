@@ -2,7 +2,7 @@
   "travels": [
     {
       "traId": 1,
-      "traReference": 123
+      "traReference": 123,
       "traTypIDs": 1,
       "traCompanyIDs": 1,
       "traAsspeoIDs": 3,
