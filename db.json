@@ -62,7 +62,12 @@
   }
    
   ],
-  "profile": {
-    "name": "typicode"
-  }
+  "boardingplaces": [ 
+    {
+      "boaID": 1,
+      "boaReference": 2,
+      "codpostals_codId": 4
+    }
+    
+  ],
 }
